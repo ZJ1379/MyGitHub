@@ -8,6 +8,11 @@ public class Student {
 
     private String sex;
 
+    public void add(){
+        System.out.println("aaa");
+
+    }
+
     public String getName() {
         return name;
     }
